@@ -1,0 +1,16 @@
+.background {
+    background: center no-repeat url("https://i.ytimg.com/vi/2zrQ5c0mlCo/maxresdefault.jpg");
+  }
+  
+  .progressBar {
+    background-color: rgb(238, 255, 65);
+  }
+  
+  .splash {
+    background-image: url("https://i.ytimg.com/vi/4GBe0mdG_OQ/hqdefault.jpg");
+  }
+  
+  .watermark {
+    background-image: url("https://www1-lw.xda-cdn.com/files/2011/06/watermark.jpg");
+    background-size: 57px 57px;
+  }
